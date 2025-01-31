@@ -11,7 +11,7 @@ console.log(myObject)
 console.log(myObject.sumProperty)
 console.log(myObject.firstProperty[1 ])
 const objectVariable={
-    property1:'i am property 1',
+    property1:'i am property 3',
     property2:'i am property 2',
     property3:[20,30,40]
 };
