@@ -19,3 +19,4 @@ const objectVariable={
  const myArray2=[20,30,40];
  console.log(myArray2[2]);
  
+"# nexus" 
